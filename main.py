@@ -100,6 +100,7 @@ def ExecutePunishment():
     if punishment == 1:
         playagain()
     elif punishment == 2:
+        conn.close()
         os.system("shutdown /r")
 
 

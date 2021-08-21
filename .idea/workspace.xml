@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42ecaf30-5da0-4f80-8f56-44a89f05a695" name="Default Changelist" comment="" />
+    <list default="true" id="42ecaf30-5da0-4f80-8f56-44a89f05a695" name="Default Changelist" comment="vcs file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1x0ZLlE1LakTaFQNPJiuRuJkr6I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -47,9 +52,29 @@
       <option name="presentableId" value="Default" />
       <updated>1629493912503</updated>
     </task>
+    <task id="LOCAL-00001" summary="vcs file">
+      <created>1629580209710</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629580209710</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="vcs file" />
+    <option name="LAST_COMMIT_MESSAGE" value="vcs file" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="824" y="418" key="Github.ShareDialog" timestamp="1629580130753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="824" y="418" key="Github.ShareDialog/0.0.1920.1040/1920.-64.1366.728@0.0.1920.1040" timestamp="1629580130753" />
+    <state x="748" y="225" key="Github.UntrackedFilesDialog" timestamp="1629580142996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.-64.1366.728@0.0.1920.1040" timestamp="1629580142996" />
     <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1629496316618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -66,5 +91,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-64.1366.728@0.0.1920.1040" timestamp="1629496316618" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1629580229565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-64.1366.728@0.0.1920.1040" timestamp="1629580229565" />
   </component>
 </project>
